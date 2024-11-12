@@ -1,5 +1,5 @@
 {
-   "name": "suhail",
+   "name": "Tsuma-MD",
    "version": "1.0.2",
    "status": "fixed ytdl",
    "description": "Multi device whatsapp bot.",
@@ -9,13 +9,13 @@
       "node": ">=20.0.0"
    },
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Suhail",
-      "suhail": "pm2 start . --deep-monitoring --attach --name Suhail",
-      "start": "pm2 start . --attach --name Suhail",
-      "stop": "pm2 stop Suhail",
+      "run": "pm2 start . --deep-monitoring --attach --name Tsuma-MD",
+      "suhail": "pm2 start . --deep-monitoring --attach --name Tsuma-MD",
+      "start": "pm2 start . --attach --name Tsuma-MD",
+      "stop": "pm2 stop Tsuma-MD",
       "dbs--postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "SuhailTechInfo",
+   "author": "TSUMA",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
