@@ -1,4 +1,4 @@
-# SUHAIL-X (V2)
+# TSUMA-MD (V2)
 <p align="center">
 <a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
 
@@ -26,9 +26,9 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{SUHAILMD-2.0}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
 
 
-  <p align="center"> Meet Suhail-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet Tsuma-MD, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Tsuma-MD whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/fork"><img title="SUHAIL-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/fork"><img title="TSUMA-MD" src="https://img.shields.io/badge/FORK-TSUMA MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
@@ -110,8 +110,8 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/SuhailTechInfo/suhailmd-2.0
-      cd SUHAIL-XMD
+      git clone https://github.com/Tsumahhh/suhailmd-2.0
+      cd TSUMA-MD
       yarn install --network-concurrency 1 && npm install
       ```
 
@@ -123,10 +123,10 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923184474176"
+      OWNER_NUMBER="254743399594"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
       THUMB_IMAGE = "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
-      OWNER_NAME = "Suhail"
+      OWNER_NAME = "TSUMA"
       PREFIX = .
       WARN_COUNT = 3
       DISABLE_PM = "false"
