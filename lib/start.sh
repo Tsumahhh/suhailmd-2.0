@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting SUHAIL-XMD!"
+echo "Starting TSUMA-MD!"
 node .
 done
