@@ -1,10 +1,10 @@
 {
-  "name": "suhail-whatsapp-bot@1.0.1",
-  "description": "I am Suhail-X Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+  "name": "tsuma-md-whatsapp-bot@1.0.1",
+  "description": "I am Tsuma-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
  "logo":"https://telegra.ph/file/9dcef2b49909742db8dbd.jpg",
  
   "old__logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "TsumaMd", "Tsuma Md bot", "Tsuma-Md", "TsumaMdWhatsaooBot", "TsumaWaBot","TsumaMD","Tsuma Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   "__stack":"container",
