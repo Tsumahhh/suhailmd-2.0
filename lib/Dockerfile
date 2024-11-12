@@ -6,10 +6,10 @@
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : SUHAIL-MD
-#    * @author : @SuhailTechInfo
+#    * @project_name : TSUMA-MD
+#    * @author : @TsumaTech
 #    * @youtube : https://www.youtube.com/SuhailTechInfo
-#    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
+#    * @description : Tsuma-Md ,A Multi-functional whatsapp bot md.
 #    * @version 1.3.7
 
 
