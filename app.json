@@ -76,17 +76,17 @@
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
-      "value": "",
+      "value": "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",
       "required" :false
     }, 
     "ELEVENLAB_API_KEY": {
       "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
-      "value": "",
+      "value": "sk_d82d473d183d4bd066429bf5255f1348dcd76394e46bac32",
       "required" :false
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
+      "value": "YxP8LxNo5cYyvSmgHQoXysja",
       "required" :false
     },
     "MODE": {
@@ -95,12 +95,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Tsuma",
+      "value": "TSUMA PACK",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "TSUMA ",
       "required": false 
     }
   }, 
