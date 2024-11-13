@@ -5,7 +5,7 @@
  
   "old__logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
   "keywords": ["whatsappbot", "TsumaMd", "Tsuma Md bot", "Tsuma-Md", "TsumaMdWhatsaooBot", "TsumaWaBot","TsumaMD","Tsuma Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "success_url": "/Tsuma/",
   "app_url": "/qr/",
   "__stack":"container",
   "env": {
@@ -34,7 +34,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Africa/Kenya"
+      "value": "Africa/Kenya/Nairobi"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
