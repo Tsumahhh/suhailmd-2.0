@@ -17,7 +17,7 @@
      
     "CAN_WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "true",
+      "value": "false",
       "required" :false
     },
      
@@ -29,7 +29,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "Suhail-X-Md"
+      "value": "Tsuma-MD"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
