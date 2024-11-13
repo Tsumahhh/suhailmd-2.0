@@ -6,7 +6,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 global.audio= "" ;  
 global.video= "" ;
 global.port =process.env.PORT 
-global.appUrl=process.env.APP_URL || ""     // put your deploy app/bot url here, for 24/7 for (render , koyeb, glitch)
+global.appUrl=process.env.APP_URL || "https://suhailmd-2-0-ewk1.onrender.com"     // put your deploy app/bot url here, for 24/7 for (render , koyeb, glitch)
 global.email ="solotsuma@outlook.com"
 global.location="Nairobi,Kenya."
 
