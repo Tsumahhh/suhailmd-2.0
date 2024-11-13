@@ -16,7 +16,7 @@ global.allowJids= process.env.ALLOW_JID || "null"
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || "false" || "mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority"
 
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya";
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya/Nairobi";
 global.github=process.env.GITHUB|| "https://github.com/Tsumahhh/suhailmd-2.0";
 global.gurl  =process.env.GURL  || "https://wa.me/+254743399594";
 global.website=process.env.GURL || "https://wa.me/+254743399594" ; 
@@ -26,7 +26,7 @@ global.caption = process.env.CAPTION || global.caption || "© TsumaTech"
 
 global.devs = "" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "+254743399594";
 
 
 
@@ -35,7 +35,7 @@ global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]
 global.style = process.env.STYLE   || Math.floor(Math.random()*6) || '0'  // put '1' to "5" here to check bot styles
 global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not responed
 global.gdbye = process.env.GOODBYE || process.env.CAN_GOODBYE || "false"; 
-global.wlcm  = process.env.WELCOME || process.env.CAN_WELCOME || Math.floor(Math.random()*3)  === 1 ?  "true" : "false" ;  // Make it "false" for disable WELCOME 
+global.wlcm  = process.env.WELCOME || process.env.CAN_WELCOME || Math.floor(Math.random()*3)  === 1 ?  "false" : "false" ;  // Make it "false" for disable WELCOME 
 
 global.warncount = process.env.WARN_COUNT || 3
 global.disablepm = process.env.DISABLE_PM || "false"
@@ -72,7 +72,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.0.1-developement-x",
-  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ TsumaTechTech ® 』```", //*『sᴜʙsᴄʀɪʙᴇ • TSUMA ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
+  caption : global.caption || "『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ TsumaTechTech ® 』" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ TsumaTechTech ® 』```", //*『sᴜʙsᴄʀɪʙᴇ • TSUMA ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
  
   author : process.env.PACK_AUTHER|| "Tsuma",
   packname: process.env.PACK_NAME || "TSUMA PACK",
@@ -84,7 +84,7 @@ module.exports = {
   KOYEB_API : process.env.KOYEB_API  || "false",
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "yepeTQaFk7r9ymusihgXYvdN",
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "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",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
